@@ -21,6 +21,8 @@ I am a Web Developer|Software Engineer. I am interested in, write about, and dev
 
  <img src="https://github-readme-stats.vercel.app/api?username=Buddhini-123&&show_icons=true&title_color=191919&icon_color=bb2acf&text_color=000000&bg_color=ffffff">
  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonight)
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&theme=tokyonight)
 
 <!--
