@@ -1,6 +1,13 @@
 ### Hi there 👋
 I am a Web Developer|Software Engineer. I am interested in, write about, and develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
+## 📬 Get in touch
+
+- LinkedIn: [www.linkedin.com/in/buddhini-jayakody-9946801bb][1]
+- Medium: [https://medium.com/@buddhiniup123][2]
+
+  
+
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
