@@ -1,4 +1,4 @@
-[![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+<!-- ![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png) -->
 ### Hi there 👋
 I am a Web Developer|Software Engineer. I am interested in, write about, and develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
