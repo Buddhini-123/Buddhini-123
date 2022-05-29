@@ -20,7 +20,6 @@ I am a Web Developer|Software Engineer. I am interested in, write about, and dev
 </p>
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonight)
- <img src="https://github-readme-stats.vercel.app/api?username=Buddhini-123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
