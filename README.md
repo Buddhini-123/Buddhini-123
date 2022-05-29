@@ -6,7 +6,7 @@ I am a Web Developer|Software Engineer. I am interested in, write about, and dev
 - LinkedIn: [www.linkedin.com/in/buddhini-jayakody-9946801bb][1]
 - Medium: [https://medium.com/@buddhiniup123][2]
 
- <img src="https://github-readme-stats.vercel.app/api?username=Buddhini-123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1515151">
+ <img src="https://github-readme-stats.vercel.app/api?username=Buddhini-123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
