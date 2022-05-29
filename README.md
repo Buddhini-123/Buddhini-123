@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Web Developer|Software Engineer. I am interested in, write about, and develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
