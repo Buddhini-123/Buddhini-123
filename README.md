@@ -1,4 +1,4 @@
-<!-- ![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png) -->
+![natterstefan](https://res.cloudinary.com/dgtnuuf6f/image/upload/v1653920095/pubjScreenshot_2022-05-30_073456_ia8mdj.png)
 ### Hi there 👋
 I am a Web Developer|Software Engineer. I am interested in, write about, and develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
@@ -6,8 +6,8 @@ I am a Web Developer|Software Engineer. I am interested in, write about, and dev
 
 ## 📬 Get in touch
 
-- LinkedIn: [www.linkedin.com/in/buddhini-jayakody-9946801bb][1]
-- Medium: [https://medium.com/@buddhiniup123][2]
+- LinkedIn: www.linkedin.com/in/buddhini-jayakody-9946801bb
+- Medium: https://medium.com/@buddhiniup123
 
 ## 🧰 Languages and Tools:
 <p align="center">
