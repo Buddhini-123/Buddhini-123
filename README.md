@@ -1,4 +1,4 @@
-![natterstefan](https://res.cloudinary.com/dgtnuuf6f/image/upload/v1653920095/pubjScreenshot_2022-05-30_073456_ia8mdj.png)
+![Buddhini-123](https://res.cloudinary.com/dgtnuuf6f/image/upload/v1653920095/pubjScreenshot_2022-05-30_073456_ia8mdj.png)
 ### Hi there 👋
 I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am interested in develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
