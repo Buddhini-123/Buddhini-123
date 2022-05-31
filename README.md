@@ -24,6 +24,7 @@ I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am intere
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonightlight)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhini-123)](https://git.io/streak-stats)
 
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
