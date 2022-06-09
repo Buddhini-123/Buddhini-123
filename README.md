@@ -8,6 +8,7 @@ I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am intere
 
 - LinkedIn: www.linkedin.com/in/buddhini-jayakody-9946801bb
 - Medium: https://medium.com/@buddhiniup123
+- Email: buddhiniup123@gmail.com
 
 ## 🧰 Languages and Tools:
 <p align="center">
