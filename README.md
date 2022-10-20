@@ -1,8 +1,8 @@
 <!-- ![Buddhini-123](https://res.cloudinary.com/dgtnuuf6f/image/upload/v1653920095/pubjScreenshot_2022-05-30_073456_ia8mdj.png) -->
-<!-- ### Hi there 👋
+### Hi there 👋
 I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am interested in develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123) -->
+![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123)
 
 <!-- ## 📬 Get in touch
 
@@ -21,12 +21,12 @@ I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am intere
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
 
 </p>
- 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonightlight)
+<!--  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonightlight) -->
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhini-123)](https://git.io/streak-stats)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact) 
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact)  -->
 
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
