@@ -2,7 +2,7 @@
 ### Hi there 👋
 I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am interested in develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123) -->
 
 <!-- ## 📬 Get in touch
 
