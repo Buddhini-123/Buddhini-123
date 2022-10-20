@@ -1,16 +1,16 @@
 <!-- ![Buddhini-123](https://res.cloudinary.com/dgtnuuf6f/image/upload/v1653920095/pubjScreenshot_2022-05-30_073456_ia8mdj.png) -->
-### Hi there 👋
+<!-- ### Hi there 👋
 I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am interested in develop software solutions using Laravel,PHP, ReactJS, and NodeJS.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123)
+![](https://visitor-badge.laobi.icu/badge?page_id=Buddhini-123.Buddhini-123) -->
 
-## 📬 Get in touch
+<!-- ## 📬 Get in touch
 
 - LinkedIn: www.linkedin.com/in/buddhini-jayakody-9946801bb
 - Medium: https://medium.com/@buddhiniup123
-- Email: buddhiniup123@gmail.com
+- Email: buddhiniup123@gmail.com -->
 
-## 🧰 Languages and Tools:
+<!-- ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
@@ -18,15 +18,15 @@ I am Buddhini Jayakody, Software Engineering Undergraduate at SLIIT. I am intere
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
 
 </p>
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonightlight)
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhini-123&show_icons=true&theme=tokyonightlight)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhini-123)](https://git.io/streak-stats)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhini-123&layout=compact) -->
 
 <!--
 **Buddhini-123/Buddhini-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
